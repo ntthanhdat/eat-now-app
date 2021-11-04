@@ -1,4 +1,4 @@
 # Food-Delivery-Android-App
-Bài tập lớn bộ môn lập trình ứng dụng di động.
+Dự án ứng dụng đặt đồ ăn sử dụng dịch vụ firebase.
 # eat-now-app
 # eat-now-app
